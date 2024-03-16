@@ -2,7 +2,6 @@
 <h2>Software Developer</h2>
 
 ### About Me
-- I'm a software developer.
 - I'm a self-taught individual with a keen creative flair, continually striving to learn and enhance my skills.
 - I find particular satisfaction in frontend development, driven by my desire to deliver top-notch visual experiences for users engaging with my projects.
 
