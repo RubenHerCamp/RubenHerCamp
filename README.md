@@ -29,7 +29,7 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
 ### Contact Me
-<a href="https://www.linkedin.com/in/ruben-hernandez-campos-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ruben-hernandez-campos-dev-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/ruben-hernandez-campos-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rubenhernandezcamposdev-blue?style=flat-square&logo=linkedin"></a>
  <br/>
 <a href="mailto:rubenhernandezwork@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rubenhernandezwork@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
