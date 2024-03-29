@@ -19,13 +19,14 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React&nbsp;Native-333333?style=flat&logo=react)
   <br/>
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![GraphQl](https://img.shields.io/badge/-GraphQl-333333?style=flat&logo=graphql)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/ruben-hernandez-campos-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rubenhernandezcamposdev-blue?style=flat-square&logo=linkedin"></a>
