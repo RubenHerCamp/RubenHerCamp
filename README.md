@@ -26,6 +26,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 ### Contact Me
